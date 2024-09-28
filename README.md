@@ -11,12 +11,15 @@ This project analyzes a music store's database using MySQL. The analysis was com
 3.What are the top 3 values of the total invoice?
 
 4.Which city has the best customers?
+
   🔹We would like to throw a promotional Music Festival in the city where we made the most money. Write a query that returns one city that has the highest sum of invoice 
     totals. Return both the city name and the sum of all invoice totals.
     
 5.Who is the best customer?
+
   🔹The customer who has spent the most money will be declared the best customer. Write a query that returns the person who has spent the most 
       money.
+      
 **Moderate Questions**
 
 1.Write a query to return the email, first name, last name, and Genre of all Rock Music listeners. Return your list ordered alphabetically by email starting with A.
@@ -31,10 +34,12 @@ This project analyzes a music store's database using MySQL. The analysis was com
 1.Find how much amount spent by each customer on artists. Write a query to return the customer name, artist name, and total spent.
 
 2.We want to find out the most popular music Genre for each country.
+
   🔹Determine the most popular genre as the genre with the highest amount of purchases. Write a query that returns each country along with the top Genre. For countries 
     where the maximum number of purchases is shared, return all Genres.
     
 3.Write a query that determines the customer that has spent the most on music for each country.
+
   🔹Write a query that returns the country along with the top customer and how much they spent. For countries where the top amount spent is shared, provide all customers 
     who spent this amount.
 
