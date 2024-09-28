@@ -2,6 +2,7 @@
 This project analyzes a music store's database using MySQL. The analysis was completed by following Rishabh Mishra's YouTube tutorial. The project includes three sets of questions categorized as EASY, MODERATE, and ADVANCE. Each set is designed to enhance SQL querying skills by solving practical problems.
 
 # Question Sets
+
 **Easy Questions**
 
 1.Who is the senior-most employee based on job title?
@@ -44,9 +45,13 @@ This project analyzes a music store's database using MySQL. The analysis was com
     who spent this amount.
 
 # Techniques Used
-Basic SQL Queries
-JOINs
-Subqueries
-CTE (Common Table Expressions)
+
+🔹Basic SQL Queries
+
+🔹JOINs
+
+🔹Subqueries
+
+🔹CTE (Common Table Expressions)
 
 This repository contains the SQL scripts and results for each of the questions listed above. Each solution is designed to demonstrate different aspects of SQL querying and database analysis.
